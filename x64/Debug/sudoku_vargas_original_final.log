@@ -1,0 +1,4 @@
+﻿  sudoku_vargas_original_final.cpp
+D:\Mapua\Year 2\CCPE 2.1\CPE103L\M2\MP2\sudoku_vargas_original_final\sudoku_vargas_original_final.cpp(154,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Mapua\Year 2\CCPE 2.1\CPE103L\M2\MP2\sudoku_vargas_original_final\sudoku_vargas_original_final.cpp(225,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sudoku_vargas_original_final.vcxproj -> D:\Mapua\Year 2\CCPE 2.1\CPE103L\M2\MP2\sudoku_vargas_original_final\x64\Debug\sudoku_vargas_original_final.exe
